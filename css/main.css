@@ -17,7 +17,7 @@
     font-display: swap;
 }
 
-body {
+body{
     
 }
 
@@ -140,7 +140,8 @@ main {
 }
 
 .main-section-button {
-    border: 2px solid #FF1640;
+    border: 2px solid rgba(255, 255, 255, 0.4);
+    color: #757575;
     border-radius: 50px;
     padding: 9px 20px;
     background-color: transparent;
